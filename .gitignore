@@ -1,0 +1,4 @@
+uploads/
+__pycache__/
+reference_crc.json
+verification_report.txt
