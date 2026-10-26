@@ -58,11 +58,7 @@ python -m pip install flask
 python app.py
 ```
 
-Open **http://127.0.0.1:5000** in your browser.
 
-Use the **1-Click Lab Demonstration Controls** at the top: Load Sample Files, Store Reference, Simulate Corruption, Verify All.
-
-Prefer the terminal? Run `python main.py` (no install needed).
 
 ---
 
